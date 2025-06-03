@@ -1,4 +1,4 @@
-from app.models import db
+from models import db
 from datetime import datetime, timezone
 
 class Issue(db.Model):
