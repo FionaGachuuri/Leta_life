@@ -3,7 +3,7 @@ Introduction
 Leta_life is a community focused platform designed to connect people with their neighbours in the pursuit of a clean and sustainable environment. Together, they can identify opportunities for improvement and recognize the positive environmental practices already in place.Leta_life fosters a sense of shared responsibility, ensuring a healthy and thriving environment for everyone.
 
 Features
-Community Engagement: Connect with neighbours to promote sustainability. Environmental Awareness: Identify and share eco-friendly practices. Collaborative Efforts: Work together to improve local environmental conditions. User Friendly Interface: Easy-to-use platform for seamless interaction.
+Community Engagement: Connect with neighbours to promote sustainability.Attend envuronmental events organised by your community . Environmental Awareness: Identify and share eco-friendly practices. Collaborative Efforts: Work together to improve local environmental conditions. User Friendly Interface: Easy-to-use platform for seamless interaction.
 
 Technologies and Dependancies
 Backend: Flask - Python Database: SQLAlchemy - with Flask-SQLAlchemy Migrations: Flask-Migrate Environment Management: python-dotenv Database Driver: PyMySQL
